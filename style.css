@@ -1,0 +1,36 @@
+body {
+  color: white
+}
+
+h1 {
+  border-style: outset;
+  width: 200px;
+}
+
+h2 {
+  background-color: powderblue;
+  width: 20%;
+  border-style: double;
+  border-width: 15px; 
+}
+
+p1 {
+  border-style: double;
+  width: 300px;
+}
+
+p2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p3 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
